@@ -1,0 +1,36 @@
+.coin-details-div{
+    background-color: aqua;
+    height: 200px;
+    background-color: aliceblue;
+}
+.coin-details-label{
+    margin-left: 12px;
+    margin-top: 70px;
+    background-color: aliceblue;
+    font-size: 28px;
+    font-style: italic;
+    font-stretch: extra-condensed;
+}
+.coin-name-label{
+    border-radius: 25%;
+    height: 70px;
+    padding-top: 18px;
+    border-radius: 25%;
+    color: rgb(92, 107, 156);
+    margin-left: 30px;
+}
+.rank-label{
+    height: 70px;
+    padding-top: 18px;
+    border-radius: 25%;
+    color: rgb(92, 107, 156);
+}
+.coin-details-wrapper{
+    width: 100%;
+    background-color: aliceblue;
+}
+@media screen and (max-width: 500px) {
+    .dollar-sign{
+        display: none;
+    }
+}
