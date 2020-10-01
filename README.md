@@ -1,4 +1,4 @@
-Installation and dependencies-
+Installation & dependencies-
 -Install node compatible with OS
 https://nodejs.org/en/download/
 
